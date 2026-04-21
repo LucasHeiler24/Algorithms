@@ -1,2 +1,2 @@
 # Algorithms
-This repository is for training logic of algorithms in any language.
+This repository was created to practice algorithmic logic in any language.
