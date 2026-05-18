@@ -4,7 +4,7 @@
         <p>This repository has been created to resolve algorithms in any language.</p>
     </section>
     <section>
-        <h1>Its focus's to improve my programming logic. Organized in three categories basic, intermediary and advanced!</h1>
+        <h4>Its focus's to improve my programming logic. Organized in three categories basic, intermediary and advanced!</h4>
         <p>There're much types of exercises.</p>
     </section>
 </main>
