@@ -4,7 +4,6 @@
 int main(void)
 {
 
-    int pos = 0, pos_aux = 0;
     char aux[50];
     char nomes[10][50] = {
         "carlos",
